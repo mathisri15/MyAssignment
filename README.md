@@ -9,3 +9,4 @@ div=a/b
 print("The Subtraction is",sub)
 print("The Multiplication is",mul)
 print("The division is ",div)
+
